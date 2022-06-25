@@ -11,6 +11,7 @@
 | Ana Júlia Luziano Briceño | 18/0097504 |
 | Carlos Eduardo Miranda Roriz | 190011424 |
 | Eurico Menezes de Abreu Neto | 20/0017519 |
+| Laís Ramos Barbosa | 170107574 |
 | Taynara Cristina Ribeiro Marcellos | 21/1031833 |
 
 # Nosso Site
@@ -41,9 +42,9 @@ Primeiro verifique se você atende aos seguintes requisitos:
 # 🤝 Colaboradores
 
 
-|||||![tay](https://user-images.githubusercontent.com/54339291/153504509-e34ad8e5-9dfc-4b2f-99cc-53100b0d2b79.jpeg)|
+|![Ana](docs/_imagens/ana.jpeg?raw=true)|![Cadu](docs/_imagens/cadu.jpeg?raw=true)|![Eurico](docs/_imagens/eurico.png?raw=true)|![Lais](docs/_imagens/lais.jpeg?raw=true)|![Tay](https://user-images.githubusercontent.com/54339291/153504509-e34ad8e5-9dfc-4b2f-99cc-53100b0d2b79.jpeg)|
 | - | - | - | - | - |
-|||||[TaynaraCris](https://github.com/TaynaraCris)|
+|[aluzianobriceno](https://github.com/aluzianobriceno)|[CaduRoriz](https://github.com/CaduRoriz)|[EuricoAbreu](https://github.com/EuricoAbreu)|[laisramos123](https://github.com/laisramos123)|[TaynaraCris](https://github.com/TaynaraCris)|
 
 
 
