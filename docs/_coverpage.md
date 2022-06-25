@@ -1,4 +1,4 @@
-![imposto](_imagens/imposto.jpeg?raw=true)
+![imposto](_imagens/imposto-rem.png?raw=true)
 
 <br></br><br></br>
 
