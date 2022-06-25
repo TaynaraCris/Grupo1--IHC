@@ -5,4 +5,4 @@
 [Repositórios](https://github.com/TaynaraCris/Grupo1--IHC/tree/main)
 
 <!-- TODO: Set your background color or image. -->
-![color](#348EAC)
+![color](#B0C4DE)
