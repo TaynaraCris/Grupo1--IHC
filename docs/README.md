@@ -1,7 +1,7 @@
 <h1 align="center"> Grupo 1 (IHC) - Meu imposto de renda </h1>
 
 
-![logo meu imposto de renda](docs/_imagens/imposto-rem.png?raw=true)
+![logo meu imposto de renda](_imagens/imposto-rem.png?raw=true)
 
 
 # 👨‍💻 Integrantes da Equipe
@@ -42,7 +42,7 @@ Primeiro verifique se você atende aos seguintes requisitos:
 # 🤝 Colaboradores
 
 
-|![Ana](docs/_imagens/ana.jpeg?raw=true)|![Cadu](docs/_imagens/cadu.jpeg?raw=true)|![Eurico](docs/_imagens/eurico.png?raw=true)|![Lais](docs/_imagens/lais.jpeg?raw=true)|![Tay](https://user-images.githubusercontent.com/54339291/153504509-e34ad8e5-9dfc-4b2f-99cc-53100b0d2b79.jpeg)|
+|![Ana](_imagens/ana.jpeg?raw=true)|![Cadu](_imagens/cadu.jpeg?raw=true)|![Eurico](_imagens/eurico.png?raw=true)|![Lais](_imagens/lais.jpeg?raw=true)|![Tay](https://user-images.githubusercontent.com/54339291/153504509-e34ad8e5-9dfc-4b2f-99cc-53100b0d2b79.jpeg)|
 | - | - | - | - | - |
 |[aluzianobriceno](https://github.com/aluzianobriceno)|[CaduRoriz](https://github.com/CaduRoriz)|[EuricoAbreu](https://github.com/EuricoAbreu)|[laisramos123](https://github.com/laisramos123)|[TaynaraCris](https://github.com/TaynaraCris)|
 
