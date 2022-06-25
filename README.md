@@ -8,6 +8,8 @@
 
 | Nome | Matrícula |
 | - | - |
+| Ana Júlia Luziano Briceño | 18/0097504 |
+| Carlos Eduardo Miranda Roriz | 190011424 |
 | Eurico Menezes de Abreu Neto | 20/0017519 |
 | Taynara Cristina Ribeiro Marcellos | 21/1031833 |
 
