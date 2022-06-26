@@ -1,7 +1,6 @@
-* Informações
-  - 
-  - 
+* Sobre
+  - [Introdução](/README.md)
 
-* Orientações
+* Backlog
   - 
   
