@@ -20,6 +20,7 @@ https://taynaracris.github.io/Grupo1--IHC/#/
 
 # 📄 Sobre o projeto
 
+Este projeto tem como principal intuito desenvolver e aplicar conhecimentos da Interação Humano Computador, desse modo, a maneira posta para tal é a execução de melhorias na forma de comunicação de um projeto de engenharia de software já existente. Assim sendo, o grupo 1 escolheu como alvo de análise crítica e adição de melhorias de interação o aplicativo mobile Meu Imposto de Renda, que por sua vez possui um menu de navegação pouco intuitivo, componentes com péssima finalização de estilo, contando até com páginas em HTML puro. Além do aplicativo ser passível de melhora, outro fator importante para a decisão da escolha foi que é uma ferramenta utilizada por grande parte dos brasileiros.
 
 
 # 📦 Releases
