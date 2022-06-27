@@ -1,6 +1,6 @@
 * Sobre
   - [Introdução](/README.md)
 
-* Backlog
-  - 
+* Cronograma
+  - [Cronograma](/cronograma.md)
   
