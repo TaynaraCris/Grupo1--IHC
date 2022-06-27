@@ -15,7 +15,7 @@
 ## Versão 1.0 
 
 |Épicos| ID | Eu, como | Desejo | Para | Importância | 
-|--|--|--|--|--|--|--|--|
+|--|--|--|--|--|--|
 |EP01| SGP01 | Usuário |Acessar página do IRPF | Ter acesso a serviços como Preencher declaração online, Baixar o programa do imposto de renda, Obter comprovante de rendimentos, Emitir o DARF para pagar o imposto, Consultar a restituição e etc | 3| | 
 |EP01| SGP02 | Usuário |Acessar documento  de perguntas e respostas sobre o IRPF  | Sanar possíveis dúvidas sobre o Imposto de Renda  | 3 | | 
 |EP01| SGP03 | Usuário |Acessar página de Cálculo do IRPF mensal e anual | Simular a Alíquota Efetiva |4 |  |  
