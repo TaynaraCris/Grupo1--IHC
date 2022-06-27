@@ -1,7 +1,7 @@
 <h1 align="center"> Grupo 1 (IHC) - Meu imposto de renda </h1>
 
 
-![logo meu imposto de renda](docs/_imagens/imposto-rem.png?raw=true)
+![logo meu imposto de renda](_imagens/imposto-rem.png?raw=true)
 
 
 # 👨‍💻 Integrantes da Equipe
@@ -21,6 +21,7 @@ https://taynaracris.github.io/Grupo1--IHC/#/
 # 📄 Sobre o projeto
 
 Este projeto tem como principal intuito desenvolver e aplicar conhecimentos da Interação Humano Computador, desse modo, a maneira posta para tal é a execução de melhorias na forma de comunicação de um projeto de engenharia de software já existente. Assim sendo, o grupo 1 escolheu como alvo de análise crítica e adição de melhorias de interação o aplicativo mobile Meu Imposto de Renda, que por sua vez possui um menu de navegação pouco intuitivo, componentes com péssima finalização de estilo, contando até com páginas em HTML puro. Além do aplicativo ser passível de melhora, outro fator importante para a decisão da escolha foi que é uma ferramenta utilizada por grande parte dos brasileiros.
+
 
 # 📦 Releases
 
@@ -42,7 +43,7 @@ Primeiro verifique se você atende aos seguintes requisitos:
 # 🤝 Colaboradores
 
 
-|![Ana](docs/_imagens/ana.jpeg?raw=true)|![Cadu](docs/_imagens/cadu.jpeg?raw=true)|![Eurico](docs/_imagens/eurico.png?raw=true)|![Lais](docs/_imagens/lais.jpeg?raw=true)|![Tay](https://user-images.githubusercontent.com/54339291/153504509-e34ad8e5-9dfc-4b2f-99cc-53100b0d2b79.jpeg)|
+|![Ana](_imagens/ana.jpeg?raw=true)|![Cadu](_imagens/cadu.jpeg?raw=true)|![Eurico](_imagens/eurico.png?raw=true)|![Lais](_imagens/lais.jpeg?raw=true)|![Tay](https://user-images.githubusercontent.com/54339291/153504509-e34ad8e5-9dfc-4b2f-99cc-53100b0d2b79.jpeg)|
 | - | - | - | - | - |
 |[aluzianobriceno](https://github.com/aluzianobriceno)|[CaduRoriz](https://github.com/CaduRoriz)|[EuricoAbreu](https://github.com/EuricoAbreu)|[laisramos123](https://github.com/laisramos123)|[TaynaraCris](https://github.com/TaynaraCris)|
 
