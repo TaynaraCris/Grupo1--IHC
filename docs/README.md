@@ -31,8 +31,8 @@ Este projeto tem como principal intuito desenvolver e aplicar conhecimentos da I
 
 A tecnologia foi escolhida de acordo com as necessidades das atividades a serem desenvolvidas.
 
-| Figma | 
-| - |
+| Figma | WhatsApp | Canvas | Discord |
+| - | - | - | - |
 
 # 💻 Pré-requisitos
 
