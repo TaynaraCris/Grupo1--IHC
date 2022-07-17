@@ -15,22 +15,22 @@
 | 20/06 - 26/06 | Lista de itens do product backlog        |
 | 20/06 - 26/06 | Cronograma do desenvolvimento do produto |
 | Semana 3      |                                          |
-| 27/06 - 03/07 | Fazer o questionário                     |
-| 27/06 - 03/07 | Entregar o questionário para os usuários |
+| 27/06 - 03/07 | Confeccionar o questionário                     |
+| 27/06 - 03/07 | Confeccionar o questionário |
 | Semana 4      |                                                      |
-| 04/07 - 10/07 | Analisar as respostas do questionário                |
-| 04/07 - 10/07 | Desenvolver o  MVP 1 (protótipo de baixa fidelidade) |
+| 04/07 - 10/07 | Editar o questionário de acordo com o feedback do professor                |
+| 04/07 - 10/07 | Verificar a versão final do questionário com o professor |
 | Semana 5      |               |                                       |
-| 11/07 - 17/07 | Desenvolver o | MVP 1 (protótipo de baixa fidelidade) |
+| 11/07 - 17/07 | Começar a entregar os questionários |
 | Semana 6      | Ponto de controle                                             |
-| 18/07 - 24/07 | Entrega do MVP para os usuários com questionário de avaliação |
-| 18/07 - 24/07 | Análise do questionário de avaliação do MVP                   |
+| 18/07 - 24/07 | Começar a analisar as respostas dos questionários |
+| 18/07 - 24/07 | Fechar o questionário e analisar todas as respostas                   |
 | Semana 7      |                                   |
-| 25/07 - 31/07 | Implementação de melhorias no MVP |
+| 25/07 - 31/07 | Desenvolver o MVP 1 (protótipo de baixa fidelidade) |
 | Semana 8      |                                               |
-| 01/08 - 07/08 | Implementação do protótipo de alta fidelidade |
+| 01/08 - 07/08 | Entrega do MVP para os usuários com questionário de avaliação |
 | Semana 9      |                                               |
-| 08/08 - 14/08 | Implementação do protótipo de alta fidelidade |
+| 08/08 - 14/08 | Análise do questionário de avaliação do MVP |
 | Semana 10     | Ponto de controle                             |
 | 15/08 - 21/08 | Implementação do protótipo de alta fidelidade |
 | Semana 11     |                                                                      |
