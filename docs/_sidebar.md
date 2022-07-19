@@ -7,5 +7,5 @@
 * Backlog
   - [Product Backlog](/ProductBacklog.md)
 
-* A ser tratado
+* Pontos abordados
   - [Pontos abordados](/atividades.md)
